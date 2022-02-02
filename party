@@ -1,0 +1,67 @@
+Party system (probably):
+
+requirements:
+- characters
+- save data / database?
+
+
+responsibility:
+- provide a list of current party member
+- managing party member (add, remove, change)
+- swaping active character 
+
+current problem:
+- camera switch is janky as hell
+- the entity is only paused and will be continued
+when switched back
+- all ongoing nodes will abpruptly be paused and
+continued
+
+possible fixes:
+- don't remove the character scene, but instead
+hide them
+- use a separate container to be the owner of 
+all character's effects
+
+weird things that might happen with solution 1:
+- when something new added to the character 
+the script of hiding them might have to be updated
+- each character would have their own unique hiding
+script which isn't great design pattern
+
+weird things that might happen with solution 2:
+- is a big hassle to set up
+- some effects like particles and audio 
+will be separated from the character itself 
+which mean that it would be a headache to set each
+character properties
+
+solution 1:
+- what is it the thing that is neccesary to be hiden?
+1. probably the sprites (all sprites)
+2. disable hitboxes
+3. disable any input 
+- what is the thing that need to be kept?
+1. skills effect
+2. particles effect
+3. projectiles
+
+what if i try to hide them and not call a new instance
+to avoid uneccessary stats carry over
+
+alrighty
+
+ok what the fuck it kinda works???
+but still need some polish
+after i eat that is
+
+
+## Fully implementing solution 1
+
+
+responsibility:
+- provide a list of current party member [X]
+- spawning all party members [X]
+- managing party member (add, remove, change, swap) [X]
+- swapping active character [X]
+- providing the current selected party member [X]

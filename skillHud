@@ -1,0 +1,13 @@
+controlled by a SkillsHud.tscn
+it's a control node
+with 2 texture rects for the skills
+and and overlay? (idk what will it be)
+that can be set partially, maybe a progress bar?
+and on top it displays the countdown timer (if it's on cooldown)
+
+
+- Create a scene for the skills [X]
+- Create 2 Texture Rects as placeholder for the skills [X]
+- on ready function replace those texture rect with the actual skills [X]
+
+

@@ -1,0 +1,7 @@
+- Implement HUDS []
+- Emu First Skill []
+- Emu Second Skill []
+- Emu Loom (parseid) []
+- parseid ligt attack []
+- parseid heavy attack []
+- Emu Spritesheet []

@@ -1,0 +1,2 @@
+- Tidy up onboarding [X]
+- Analyze Emu [X]

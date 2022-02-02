@@ -1,0 +1,57 @@
+What's the minimal release plan?
+- Trailer [nope]
+- lore building [X]
+
+What's needed for the trailer: -> scrapped
+- Opening song [Nope]
+- HUD []
+- Complete battle system (2-3 enemies) [yea]
+- Bossfight (nitsu) [yea]
+- Aonahara city tilemap [yea]
+- QA floor tilemap [yea]
+- Nom [yea]
+- Emu [yea]
+- Party [yea]
+
+
+Plan B, Website publication
+
+- Setup [X] --Today 17Dec
+  - LSP for html [X]
+  - LSP for javascript [X]
+  - LSP for typescript [X]
+  - LSP for jsx [X]
+  - LSP for tsx [X]
+  - tailwind intelenses [X]
+  - Firestore [X]
+
+- Web layout [X]
+  - Basic layouts [X]
+  - nitty gritty [X]
+    - Story [X]
+  - mobile responsive []
+
+- Web Assets []
+  - nom banner [X]
+  - releasse []
+  - pre-order []
+  - background []
+  - logo []
+
+- Web pages [X]
+  - News [X]
+  - Support [X]
+
+
+- News page [X]
+  - banner [X]
+  - lattest posts [X]
+
+- News post (Announcement and apology)[X]
+  - Outline [X]
+  - Draft [X]
+  - Cleanup [X]
+  - Thumbnail [X]
+  
+
+

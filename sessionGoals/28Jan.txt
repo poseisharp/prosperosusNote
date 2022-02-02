@@ -1,0 +1,5 @@
+- cleanup skills_hud [X]
+- Finish up its raining rock []
+  - use delta for the circle [X]
+- Create Big Destructive Summon Meteor []
+- learn how to propagate input dang it posei []
