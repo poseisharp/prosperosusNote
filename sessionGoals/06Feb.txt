@@ -1,0 +1,4 @@
+- dynamic head 
+- light cooldown [X]
+- facing left [X]
+- Boss
