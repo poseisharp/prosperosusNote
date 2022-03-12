@@ -21,5 +21,4 @@
 
 
 # Problem with the active attribute
-- Onready var is not ready at all
-	- Will use directly from the stateless
+- Trigger the tick before getting the attr [x]
