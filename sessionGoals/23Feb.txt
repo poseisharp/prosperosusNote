@@ -1,0 +1,12 @@
+Fromb
+Collision anmation fix
+Proper death (queue free)
+
+Buff
+attributte getter (sum the value)
+
+attack transition
+wait for heavy to do light and vice versa
+
+heavy cooldown indicator
+

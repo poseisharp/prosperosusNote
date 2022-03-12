@@ -1,0 +1,4 @@
+- Quick Scan [X]
+- Fix stuff if there's any to fix []
+- Polish Buff System []
+- Rethink how enemy works []
