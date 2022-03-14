@@ -2,20 +2,20 @@
 - Game template [X]
 
 # Enemies
-- Set up a better Ai set-up
+- Set up a better Ai set-up [X]
 - Rethink the base enemy class <- Currently Doing
-	- Patrol Behavior
-	- Movement Steerings
+	- Steerings []
+		- Seek [X]
+		- Avoid
+		- Patrol
+		- Arrival
 	- Incorporate State Machine with AI [X]
 	- Target and target priority [X]
 	- Agro range [X]
-	- Spawner
-	- Standarized Projectile
-	- Rework movement
-	- Add buff / modifier system to the enemy too <- []
-	- Add extra attributes
-	- Ai will no longer be an inherited scene but will be a unique scene to for each enemy
-
+	- Standarized Projectile [X]
+	- Add buff / modifier system to the enemy too [X]
+	- Add extra attributes [X]
+	- Ai will no longer be an inherited scene but will be a unique scene to for each enemy [X]
 - Polish Fromb
 - Skacid
 - Slime
@@ -42,6 +42,6 @@
 
 # Modifier 
 - Visual queues on modifier?
-- Should debuff and buff become one as a modifier Or should they have different class????
-	- Probably make a modifier class instead with a type ENUM for buff and debuff
-- Reduce bonus hp of excited or rather don't allow hp to exceed max_hp
+- Should debuff and buff become one as a modifier Or should they have different class [X]
+	- Probably make a modifier class instead with a type ENUM for buff and debuff [X]
+- Reduce bonus hp of excited or rather don't allow hp to exceed max_hp [X]
