@@ -1,5 +1,5 @@
 # Overhaul
-- Dialogic [] <- Now 
+- Dialogic [X]
 
 # Enemies
 - Steerings
@@ -13,7 +13,7 @@
 
 # Character
 - Nom's second skill 
-- Nom's first skill effect
+- Nom's first skill effect [X]
 - Emu's after casing animation
 - Better attack propagation
 
