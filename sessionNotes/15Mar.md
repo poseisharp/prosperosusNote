@@ -14,8 +14,9 @@
 # Character
 - Nom's second skill 
 - Nom's first skill effect [X]
-- Emu's after casing animation
-- Better attack propagation
+- Emu's after casing animation [X]
+- Better attack propagation for Emu [X]
+- Better attack propagation for Nom
 
 # Looms
 - Reconfigure Sword
