@@ -16,11 +16,16 @@
 - Nom's first skill effect [X]
 - Emu's after casing animation [X]
 - Better attack propagation for Emu [X]
-- Better attack propagation for Nom
+- Better attack propagation for Nom 
 
 # Looms
-- Reconfigure Sword
+- Reconfigure Sword [] <--
+	- Attack need to be finished first before starting a new one []
+	- Heavy Cooldown []
+	- Light Cooldown []
+	- delete bullet
 - Cum splatter on Cum Stained Sword
+- Re introcduce holdable attacks
 
 # Scenes
 - Fix the starting train scene
